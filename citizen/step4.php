@@ -82,6 +82,7 @@ if (mysqli_query($con, $sql)) {
                 'body' => "Dear user, your application track here: http://localhost/Welfare-scheme/citizen/track-mo.php for the '$scheme_name' scheme has been successfully submitted. We will notify you once it's processed. Thank you!",
             ]
         );
+        header('Location: track-mo.php');
         exit();
     } catch (Exception $e) {
         echo "Failed to send sms: " . $e->getMessage();
