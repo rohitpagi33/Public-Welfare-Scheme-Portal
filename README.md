@@ -40,8 +40,8 @@ The **Public Welfare Scheme Portal** is designed to streamline and enhance the d
 
 ### 1. Clone the Repository:
 ```bash
-   git clone https://github.com/your-repo/public-welfare-scheme.git
-   cd public-welfare-scheme
+   git clone https://github.com/Prince61141/Public-Welfare-Scheme-Portal
+   cd Public-Welfare-Scheme-Portal
 ```
 
 ### 2. Configure Environment Variables:
