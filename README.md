@@ -40,7 +40,7 @@ The **Public Welfare Scheme Portal** is designed to streamline and enhance the d
 
 ### 1. Clone the Repository:
 ```bash
-   git clone https://github.com/Prince61141/Public-Welfare-Scheme-Portal
+   git clone https://github.com/rohitpagi33/Public-Welfare-Scheme-Portal
    cd Public-Welfare-Scheme-Portal
 ```
 
